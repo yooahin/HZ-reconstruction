@@ -1,4 +1,4 @@
-datafile=./gltdData/j1206_7.0_20_likelihooh.txt
+datafile=./path_to/j1206_7.0_20_likelihooh.txt
 distanceType = ddtdd
 number_of_dd = 266
 number_of_ddt = 257
