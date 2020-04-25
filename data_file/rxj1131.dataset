@@ -1,4 +1,4 @@
-datafile=./gltdData/RXJ1131_AO+HST_Ddt_Dd_7.0_12.5.txt
+datafile=./path_to/RXJ1131_AO+HST_Ddt_Dd_7.0_12.5.txt
 distanceType = ddtdd
 number_of_dd = 152
 number_of_ddt = 153
