@@ -1,4 +1,4 @@
-datafile=./gltdData/PG1115_AO+HST_Ddt_Dd_likelihooh_8.0_25.txt
+datafile=./path_to/PG1115_AO+HST_Ddt_Dd_likelihooh_8.0_25.txt
 distanceType = ddtdd
 number_of_dd = 204
 number_of_ddt = 320
