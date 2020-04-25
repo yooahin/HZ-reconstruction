@@ -1,4 +1,4 @@
-datafile=./gltdData/wfi2033_dt_bic_8.0_20.txt
+datafile=./path_to/wfi2033_dt_bic_8.0_20.txt
 distanceType = ddt
 number_of_d = 418
 zd= 0.6575
