@@ -1,4 +1,4 @@
-datafile=./gltdData/HE0435_Ddt_AO+HST_likelihooh_8.0_20.0.txt
+datafile=./path_to/HE0435_Ddt_AO+HST_likelihooh_8.0_20.0.txt
 distanceType = ddt
 number_of_d = 268
 zd= 0.4546
